@@ -4,7 +4,7 @@
 
 The 2022-model XPS 15 appears to use the same 4-speakers-on-ALC289 audio setup as the Dell XPS 9510, so the woofers do not work by default.  This patch enables the same driver quirk to allow for much better audio quality and greater volume output.
 
-Available as a .patch file (if you want to compile your own kernel) and a .deb package built from the 5.13.9 kernel using the supplied Ubuntu configuration (minus signatures, obviously). It's included in the mainline kernel as of 5.14-rc7.\
+Available as a .patch file (if you want to compile your own kernel) and a .deb package built from the 5.17.0 kernel using the supplied Ubuntu configuration (minus signatures, obviously). \
 
 For folks looking to patch their own machines in similar ways, the ID numbers in the patch are the PCI SubVendor and SubDevice. 
 
