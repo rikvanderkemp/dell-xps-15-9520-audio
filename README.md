@@ -1,3 +1,9 @@
+# Archived
+
+This repository is no longer used and so archived for historical reasons. I do not own this particular laptop any more and no longer.
+I do hope the repository might help somebody in the future!
+
+
 # Linux 5.17 kernel patch for (2022) XPS 15 9520 audio
 
 [Original fix by Kristin Paget for the 9510 model](https://github.com/kristinpaget/xps-15-9510-audio)
